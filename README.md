@@ -13,6 +13,7 @@ The code is modular and is organized in such a way that in most cases
 the user would not need to edit any of the main source files in the main 
 tristan-mp directory. 
 
+This is repo
 All of the user-specific configuration should be possible to confine
 to user_* routines. There are three example user configuration files 
 in main directory, showing a counterstreaming Weibel instability
